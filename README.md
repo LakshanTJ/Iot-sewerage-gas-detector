@@ -64,14 +64,7 @@ The system is intended for **early warning and safety monitoring**, not certifie
 ---
 
 ## 🏗️ System Architecture
-Gas Sensors & DHT22
-↓
-ESP32
-↓
-Cloud Server
-↓
-Web Dashboard / Alerts
-
+Gas Sensors & DHT22 → ESP32 → Cloud Server → Web Dashboard / Alerts
 ---
 
 ## ⚠️ Limitations
